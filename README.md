@@ -1,6 +1,6 @@
 # Mimo xdg-open
 
-**mimo** is a (mimi)[https://github.com/march-linux/mimi] fork, an improved
+**mimo** is a [mimi](https://github.com/march-linux/mimi) fork, an improved
 version of xdg-open.
 
 
