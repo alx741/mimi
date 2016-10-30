@@ -40,7 +40,7 @@ Example `~/.config/mimo/mime.conf`:
 For a `'text/html'` example file:
 
 1. 'txt'
-2. <protocol>
+2. `<protocol>`
 3. 'text/html'
 4. 'text/'
 5. 'text/html' in `.desktop`
